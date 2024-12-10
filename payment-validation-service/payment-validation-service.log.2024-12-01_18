@@ -1,0 +1,20 @@
+[INFO ] 2024-12-01 18:02:55.029 [restartedMain] [payment-validation-service] com.Bilal.PaymentValidationServiceApplication - Starting PaymentValidationServiceApplication using Java 21.0.4 with PID 13980 (D:\payment-processing-service\payment-processing-service-initial-setup\target\classes started by DELL in D:\payment-processing-service\payment-processing-service-initial-setup)
+[DEBUG] 2024-12-01 18:02:55.033 [restartedMain] [payment-validation-service] com.Bilal.PaymentValidationServiceApplication - Running with Spring Boot v3.1.12, Spring v6.0.21
+[INFO ] 2024-12-01 18:02:55.035 [restartedMain] [payment-validation-service] com.Bilal.PaymentValidationServiceApplication - The following 1 profile is active: "local"
+[INFO ] 2024-12-01 18:02:55.282 [restartedMain] [payment-validation-service] org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[INFO ] 2024-12-01 18:02:55.290 [restartedMain] [payment-validation-service] org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[INFO ] 2024-12-01 18:02:58.135 [restartedMain] [payment-validation-service] org.springframework.data.repository.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+[INFO ] 2024-12-01 18:02:58.200 [restartedMain] [payment-validation-service] org.springframework.data.repository.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 47 ms. Found 0 JDBC repository interfaces.
+[INFO ] 2024-12-01 18:03:01.090 [restartedMain] [payment-validation-service] org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+[INFO ] 2024-12-01 18:03:01.125 [restartedMain] [payment-validation-service] org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+[INFO ] 2024-12-01 18:03:01.133 [restartedMain] [payment-validation-service] org.apache.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 2024-12-01 18:03:01.140 [restartedMain] [payment-validation-service] org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.24]
+[INFO ] 2024-12-01 18:03:01.316 [restartedMain] [payment-validation-service] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 2024-12-01 18:03:01.317 [restartedMain] [payment-validation-service] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 6026 ms
+[INFO ] 2024-12-01 18:03:02.546 [restartedMain] [payment-validation-service] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+[INFO ] 2024-12-01 18:03:03.565 [restartedMain] [payment-validation-service] com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@12c614de
+[INFO ] 2024-12-01 18:03:03.574 [restartedMain] [payment-validation-service] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+[INFO ] 2024-12-01 18:03:04.419 [restartedMain] [payment-validation-service] org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+[INFO ] 2024-12-01 18:03:04.550 [restartedMain] [payment-validation-service] org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+[INFO ] 2024-12-01 18:03:04.603 [restartedMain] [payment-validation-service] org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path ''
+[INFO ] 2024-12-01 18:03:04.640 [restartedMain] [payment-validation-service] com.Bilal.PaymentValidationServiceApplication - Started PaymentValidationServiceApplication in 11.103 seconds (process running for 15.23)

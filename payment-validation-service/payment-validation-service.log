@@ -1,0 +1,8 @@
+[WARN ] 2024-12-01 20:52:42.282 [HikariPool-1 housekeeper] [payment-validation-service] com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h9m7s777ms590µs300ns).
+[INFO ] 2024-12-01 20:55:20.733 [RMI TCP Connection(108)-127.0.0.1] [payment-validation-service] org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+[INFO ] 2024-12-01 20:55:21.085 [RMI TCP Connection(108)-127.0.0.1] [payment-validation-service] org.apache.coyote.http11.Http11NioProtocol - Pausing ProtocolHandler ["http-nio-8081"]
+[INFO ] 2024-12-01 20:55:21.086 [RMI TCP Connection(108)-127.0.0.1] [payment-validation-service] org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+[INFO ] 2024-12-01 20:55:21.230 [RMI TCP Connection(108)-127.0.0.1] [payment-validation-service] org.apache.coyote.http11.Http11NioProtocol - Stopping ProtocolHandler ["http-nio-8081"]
+[INFO ] 2024-12-01 20:55:21.254 [RMI TCP Connection(108)-127.0.0.1] [payment-validation-service] org.apache.coyote.http11.Http11NioProtocol - Destroying ProtocolHandler ["http-nio-8081"]
+[INFO ] 2024-12-01 20:55:21.335 [RMI TCP Connection(108)-127.0.0.1] [payment-validation-service] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+[INFO ] 2024-12-01 20:55:21.376 [RMI TCP Connection(108)-127.0.0.1] [payment-validation-service] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
